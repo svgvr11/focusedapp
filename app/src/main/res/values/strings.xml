@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Focused</string>
+    <string name="login_screen">Iniciar sesión</string>
+    <string name="lbl_copyright">Endbox 2019 ©</string>
+    <string name="title_activity_login_google">Inicia sesión</string>
+    <string name="btn_registro">Ingresar con Google</string>
 </resources>
