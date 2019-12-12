@@ -215,7 +215,7 @@
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
                             android:textAlignment="center"
-                            android:text="@string/btn_ver_mapa"
+                            android:text="@string/btn_agendar"
                             android:textColor="@color/colorWhiteText"
                             android:backgroundTint="@color/colorButton2">
 
@@ -247,7 +247,7 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_weight="1"
-                            app:srcCompat="@drawable/room_5"></ImageView>
+                            app:srcCompat="@drawable/room_4"></ImageView>
                     </LinearLayout>
 
                     <LinearLayout

@@ -24,6 +24,7 @@
     <string name="txt_room_description">Hermosa pieza ubicada en pleno centro de Temuco.
         Buena locomoción y sector tranquilo</string>
     <string name="btn_ver_mapa">Ver en el mapa</string>
+    <string name="btn_agendar">Ver horario</string>
     <string name="txt_valor">Valor: $3800 / hora</string>
 
 </resources>
