@@ -3,6 +3,7 @@
     <string name="login_screen">Iniciar sesión</string>
     <string name="lbl_copyright">Endbox 2019 ©</string>
     <string name="title_activity_login_google">Inicia sesión</string>
+    <string name="btn_registrar">Regístrate</string>
     <string name="btn_registro">Ingresar con Google</string>
     <string name="title_activity_menu_drawer">MenuDrawer</string>
     <string name="navigation_drawer_open">Abrir menú de navegación</string>
@@ -14,7 +15,7 @@
 
     <string name="menu_home">Inicio</string>
     <string name="menu_gallery">Mi perfil</string>
-    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_slideshow">Mis reservas</string>
     <string name="menu_tools">Tools</string>
     <string name="menu_share">Share</string>
     <string name="menu_send">Cerrar sesión</string>
@@ -46,6 +47,7 @@
     <string name="txt_resena">"Me encantó la sala; mucho silencio en todo momento, pude concentrarme sin ninguna distracción. Recomendado."</string>
 
     <string name="txt_date">27/06/2019</string>
+    <string name="txt_registro">O regístrate</string>
 
 
 </resources>
