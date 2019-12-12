@@ -18,4 +18,12 @@
     <string name="menu_tools">Tools</string>
     <string name="menu_share">Share</string>
     <string name="menu_send">Cerrar sesión</string>
+
+    <string name="txt_title_card_view">Hermosa y relajante pieza. Temuco centro.</string>
+    <string name="txt_room_features">Wifi  |  Proyector  |  1    </string>
+    <string name="txt_room_description">Hermosa pieza ubicada en pleno centro de Temuco.
+        Buena locomoción y sector tranquilo</string>
+    <string name="btn_ver_mapa">Ver en el mapa</string>
+    <string name="txt_valor">Valor: $3800 / hora</string>
+
 </resources>
