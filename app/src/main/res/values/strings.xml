@@ -34,4 +34,18 @@
     <string name="btn_ingresar">Ingresar</string>
     <string name="txt_opcion_inicio_sesion">- - - - Ó - - - -</string>
 
+    <string name="txt_user_desc">Estudiante   |   23 años</string>
+
+    <string name="txt_user_loctn">Temuco, Chile</string>
+    <string name="txt_user_edit">Editar mis datos</string>
+
+    <string name="txt_desc_review">Temuco centro Casa muy tranquila</string>
+
+    <string name="txt_valoracion">Valoración:</string>
+    <string name="txt_resena_title">Reseña:</string>
+    <string name="txt_resena">"Me encantó la sala; mucho silencio en todo momento, pude concentrarme sin ninguna distracción. Recomendado."</string>
+
+    <string name="txt_date">27/06/2019</string>
+
+
 </resources>
