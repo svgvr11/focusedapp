@@ -8,11 +8,11 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 
-public class MainActivity extends Activity {
+public class MainActivity extends AppCompatActivity implements View.OnClickListener {
 
     //Declaro Variables
     Button btn_registro;
-
+    Button  btn_ingresar;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -20,11 +20,14 @@ public class MainActivity extends Activity {
         setContentView(R.layout.activity_main);
 
         btn_registro = (Button) findViewById(R.id.btnRegistro);
-        btn_registro.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                startActivity(new Intent(MainActivity.this, MenuDrawer.class));
-            }
-        });
+        btn_ingresar = (Button) findViewById(R.id.btnIngresar);
+        btn_ingresar.setOnClickListener(this);
+        btn_registro.setOnClickListener(this);
+
+    }
+
+    @Override
+    public void onClick(View v) {
+        startActivity(new Intent(MainActivity.this, MenuDrawer.class));
     }
 }

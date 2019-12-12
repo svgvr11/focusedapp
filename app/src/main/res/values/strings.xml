@@ -27,4 +27,11 @@
     <string name="btn_agendar">Ver horario</string>
     <string name="txt_valor">Valor: $3800 / hora</string>
 
+    <string name="txt_username">Username/Email</string>
+    <string name="txt_pass">Contraseña</string>
+
+    <string name="txt_iniciar_sesion">Iniciar sesión</string>
+    <string name="btn_ingresar">Ingresar</string>
+    <string name="txt_opcion_inicio_sesion">- - - - Ó - - - -</string>
+
 </resources>

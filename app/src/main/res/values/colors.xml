@@ -7,4 +7,6 @@
     <color name="colorWhiteText">#FFFFFF</color>
     <color name="colorButton1">#AFAB8D</color>
     <color name="colorButton2">#8D896D</color>
+    <color name="borderColor">#FFFFFF</color>
+    <color name="design_default_color_secondary">#5E4FAB</color>
 </resources>

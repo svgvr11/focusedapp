@@ -177,7 +177,7 @@
                         android:textAlignment="center">
 
                         <Button
-                            android:id="@+id/btn_ver_mapa"
+                            android:id="@+id/btnVerMapa"
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
                             android:textAlignment="center"
@@ -211,7 +211,7 @@
                         android:textAlignment="center">
 
                         <Button
-                            android:id="@+id/btn_agendar"
+                            android:id="@+id/btnHorario"
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
                             android:textAlignment="center"
