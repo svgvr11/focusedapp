@@ -1,4 +1,5 @@
 <resources>
+
     <string name="app_name">Focused</string>
     <string name="login_screen">Iniciar sesión</string>
     <string name="lbl_copyright">Endbox 2019 ©</string>
@@ -48,6 +49,11 @@
 
     <string name="txt_date">27/06/2019</string>
     <string name="txt_registro">O regístrate</string>
+
+    <string name="titulo_reservas_encurso">En curso </string>
+
+    <string name="btn_contactar">Contacto</string>
+    <string name="btn_cancelar_reserva">Cancelar reserva</string>
 
 
 </resources>

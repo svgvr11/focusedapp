@@ -14,7 +14,6 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     //Declaro Variables
     Button btn_registro;
     Button  btn_ingresar;
-    Button btn_registrar;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

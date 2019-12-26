@@ -1,8 +1,13 @@
 package cl.endbox.focused.ui.gallery;
 
+import android.os.Bundle;
+import android.widget.Button;
+
 import androidx.lifecycle.LiveData;
 import androidx.lifecycle.MutableLiveData;
 import androidx.lifecycle.ViewModel;
+
+import cl.endbox.focused.R;
 
 public class GalleryViewModel extends ViewModel {
 
@@ -16,4 +21,5 @@ public class GalleryViewModel extends ViewModel {
     public LiveData<String> getText() {
         return mText;
     }
+
 }
